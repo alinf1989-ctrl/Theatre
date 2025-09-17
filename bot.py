@@ -1,7 +1,7 @@
 import telebot
 
 # 🔑 اینجا توکن رباتی که از BotFather گرفتی رو بذار
-API_TOKEN = "8445893584"
+API_TOKEN = "8445893584:AAHfh55XNmS_E1MMSd37dxAbOADorOg1BAE"
 
 bot = telebot.TeleBot(API_TOKEN)
 
